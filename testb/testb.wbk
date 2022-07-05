@@ -1,0 +1,10 @@
+1
+9
+.tran 1ns 2000ns 0s 1000ns{return}{return}
+2
+1
+/viblator/C
+V
+1
+/viblator/Vdd
+V
