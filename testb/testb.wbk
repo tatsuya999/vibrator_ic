@@ -1,10 +1,7 @@
 1
 9
-.tran 1ns 2000ns 0s 1000ns{return}{return}
-2
+.tran 10n 100u
+1
 1
 /viblator/C
-V
-1
-/viblator/Vdd
 V
