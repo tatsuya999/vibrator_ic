@@ -1,0 +1,12 @@
+.title KiCad schematic
+.include "/Users/saitoutatsuya/Documents/lab/practice/testb/16PTS/mos_PTS06.lib"
+V1 /viblator/Vdd 0 dc 5
+R1 /viblator/B /viblator/A 6k
+C1 /viblator/A /viblator/C 1n
+M1 /viblator/B /viblator/A /viblator/Vdd /viblator/Vdd pchOR1ex l=1u w=10u
+M2 /viblator/B /viblator/A 0 0 nchOR1ex l=1u w=5u
+M3 /viblator/C /viblator/B /viblator/Vdd /viblator/Vdd pchOR1ex l=1u w=10u
+M4 /viblator/C /viblator/B 0 0 nchOR1ex l=1u w=5u
+.ic V(viblator/C)=0
+.ic V(viblator/A)=0
+.end
