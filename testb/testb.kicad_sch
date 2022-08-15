@@ -299,7 +299,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2cfb77fc-63f8-4888-94b3-0e86a309ac26)
     (property "Reference" "R1" (id 0) (at 121.92 68.58 90))
-    (property "Value" "6k" (id 1) (at 121.92 71.12 90))
+    (property "Value" "150" (id 1) (at 121.92 71.12 90))
     (property "Footprint" "" (id 2) (at 121.92 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -414,7 +414,7 @@
       (reference "M4") (unit 1) (value "NMOS_OR1") (footprint "")
     )
     (path "/2cfb77fc-63f8-4888-94b3-0e86a309ac26"
-      (reference "R1") (unit 1) (value "6k") (footprint "")
+      (reference "R1") (unit 1) (value "150") (footprint "")
     )
     (path "/b717cf87-ea15-43bb-92fa-e84e251c65e1"
       (reference "V1") (unit 1) (value "VDC") (footprint "")
