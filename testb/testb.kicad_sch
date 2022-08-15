@@ -407,11 +407,119 @@
     (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/bb3ec133-171a-4316-9792-05dd1a156dff"
       (reference "M2") (unit 1) (value "NMOS_OR1") (footprint "")
     )
-    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/45430f03-bc3c-4589-96e8-d5fd0d4b59b3"
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/a0f59e0f-3e5e-4d5c-b3b0-3a0a5ef48fc9"
       (reference "M3") (unit 1) (value "PMOS_OR1") (footprint "")
     )
-    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/c6a8e0a6-0542-4779-9dbb-0bd8e9cf6733"
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/a138864e-46d2-4588-ba3c-a4f66c42d6f0"
       (reference "M4") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/b2ffeb26-e9c4-41e1-9f34-c698e150b3a3"
+      (reference "M5") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/10a6f150-6436-4909-97f8-6e744fafe3b7"
+      (reference "M6") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/41498b3d-cfc5-41ce-a985-f8c80732f0e3"
+      (reference "M7") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/423a6709-d402-4f4d-88ff-bf3843b67832"
+      (reference "M8") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/777c4cf4-6685-4260-a11d-6ad743c6da63"
+      (reference "M9") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/2d7bf454-a783-4485-aeac-5ccce1bd98f9"
+      (reference "M10") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/d499fc2f-63d6-4a4f-b3d0-7f8ad3b386c2"
+      (reference "M11") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/b0d17406-0048-4944-a44f-2797a0cb145a"
+      (reference "M12") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/4322781d-1fc4-459d-b007-ad7d2f31ccb9"
+      (reference "M13") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/e5d0aa51-bdae-47b0-b799-b7cf0aeb2579"
+      (reference "M14") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/60b32e62-1936-41a0-8496-44c25949e70f"
+      (reference "M15") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/c36be0dd-89bf-4bce-9d67-91d65feb5b3e"
+      (reference "M16") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/72707e02-91d8-4ad5-a1e8-7291f4daafc2"
+      (reference "M17") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/b167230b-baf1-498d-8ae3-ea46feff6539"
+      (reference "M18") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/c6bdf748-c7b2-46cb-9533-3102d733e0d4"
+      (reference "M19") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/917762d1-2a12-4e86-aab0-90ce836a8c05"
+      (reference "M20") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/c9d49599-f82f-442f-b755-14fa812dbef8"
+      (reference "M21") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/ff78a1e0-0866-4b8b-a07d-2386c45b8ad7"
+      (reference "M22") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/b4a01401-fbe6-4481-9b1f-0dd76836babd"
+      (reference "M23") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/1d9c203a-6542-4aa6-9539-b5b15de3e902"
+      (reference "M24") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/a679bdce-cb78-4afe-8246-7d2a260ccdc3"
+      (reference "M25") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/d51327ec-7a5d-4c0a-ba1d-79f52b49c155"
+      (reference "M26") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/b114e83e-0a69-4c25-a32e-f95ffcb4ba6f"
+      (reference "M27") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/6e49c8ef-af29-435c-b944-e4705c86b8c5"
+      (reference "M28") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/0c697c1a-985e-4fcf-9d28-6f5cb5be52b6"
+      (reference "M29") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/f8dba30c-4864-40d5-97c3-0f1fb2d5cc32"
+      (reference "M30") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/9759e799-74a8-4878-9594-ffa2cc29e43e"
+      (reference "M31") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/aee796a7-0eef-44d5-a0a6-dc365b4a4467"
+      (reference "M32") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/85481299-c71f-47aa-a9c8-636ca3626ece"
+      (reference "M33") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/cabc4a99-916f-4c98-9039-f278549ae690"
+      (reference "M34") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/e91c979b-5e1c-4fc3-be46-d74ff9b6de76"
+      (reference "M35") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/e15eb47a-a7cc-4936-815e-05822ea80bab"
+      (reference "M36") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/2395bb12-eea8-4d0e-a568-dffda0ea1c3e"
+      (reference "M37") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/5d49b636-b7d6-4723-8854-72042fd8d4d1"
+      (reference "M38") (unit 1) (value "NMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/c8349398-f7fb-46cb-aa5d-9954c47165cd"
+      (reference "M39") (unit 1) (value "PMOS_OR1") (footprint "")
+    )
+    (path "/f9bca915-8d72-4d60-baed-39cb84ddd057/e6d8f6f5-e37f-41f3-a1f0-52097a8d2749"
+      (reference "M40") (unit 1) (value "NMOS_OR1") (footprint "")
     )
     (path "/2cfb77fc-63f8-4888-94b3-0e86a309ac26"
       (reference "R1") (unit 1) (value "150") (footprint "")
